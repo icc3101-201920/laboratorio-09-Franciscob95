@@ -1,0 +1,10 @@
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\bin\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.deps.json
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\bin\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.runtimeconfig.json
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\bin\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.runtimeconfig.dev.json
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\bin\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.dll
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\bin\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.pdb
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\obj\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.csprojAssemblyReference.cache
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\obj\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.AssemblyInfoInputs.cache
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\obj\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.AssemblyInfo.cs
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\obj\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.dll
+C:\Users\fjbar\OneDrive\Desktop\laboratorio-09-Franciscob95\Laboratorio_8_OOP_201920\obj\Debug\netcoreapp2.1\Laboratorio_8_OOP_201920.pdb

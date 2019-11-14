@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Laboratorio_8_OOP_201920/1.0.0": {
+        "runtime": {
+          "Laboratorio_8_OOP_201920.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratorio_8_OOP_201920/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

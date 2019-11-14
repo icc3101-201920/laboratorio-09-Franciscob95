@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fjbar\\OneDrive\\Desktop\\laboratorio-09-Franciscob95\\Laboratorio_8_OOP_201920\\Laboratorio_8_OOP_201920.csproj",
+      "projectUniqueName": "C:\\Users\\fjbar\\OneDrive\\Desktop\\Repo-reserva\\Laboratorio_8_OOP_201920\\Laboratorio_8_OOP_201920.csproj",
       "projectName": "Laboratorio_8_OOP_201920",
-      "projectPath": "C:\\Users\\fjbar\\OneDrive\\Desktop\\laboratorio-09-Franciscob95\\Laboratorio_8_OOP_201920\\Laboratorio_8_OOP_201920.csproj",
+      "projectPath": "C:\\Users\\fjbar\\OneDrive\\Desktop\\Repo-reserva\\Laboratorio_8_OOP_201920\\Laboratorio_8_OOP_201920.csproj",
       "packagesPath": "C:\\Users\\fjbar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fjbar\\OneDrive\\Desktop\\laboratorio-09-Franciscob95\\Laboratorio_8_OOP_201920\\obj\\",
+      "outputPath": "C:\\Users\\fjbar\\OneDrive\\Desktop\\Repo-reserva\\Laboratorio_8_OOP_201920\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

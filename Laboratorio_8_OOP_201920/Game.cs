@@ -156,7 +156,7 @@ namespace Laboratorio_8_OOP_201920
                 //turno 0 o configuracion
                 if (turn == 0)
                 {
-                    activePlayer.CardPlayed += mailSender.OnLoggedIn;
+                    activePlayer.CardPlayed += .OnCardPlayed;
                     for (int _ = 0; _<Players.Length; _++)
                     {
                         ActivePlayer = Players[firstOrSecondUser];

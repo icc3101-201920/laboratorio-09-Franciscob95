@@ -24,49 +24,68 @@ namespace Laboratorio_8_OOP_201920
             return effectDescriptions[e];
         }
 
-        public static void ApplyEffect(Card playedCard, Player activePlayer, Player opponent, Board board)
-        {
-            //Recomendación: Utilice switch(playedCard.CardEffect) para definir los distintos efectos.
-        }
-
-        public void ApplyEffect(Card playedCard, Player activePlayer, Player opponent,Board board)
+        public static void ApplyEffect(Card playedCard, Player activePlayer, Player opponent,Board board)
         {
             if (playedCard.CardEffect == EnumEffect.bitingFrost)
             {
-
+                foreach (CombatCard c in activePlayer.Hand.Cards)
+                {
+                    if (c.Type == EnumType.melee)
+                    {
+                        c.AttackPoints = 1;
+                    }
+                }
+                foreach (CombatCard c in opponent.Hand.Cards)
+                {
+                    if (c.Type == EnumType.melee)
+                    {
+                        c.AttackPoints = 1;
+                    }
+                }
             }
             else if (playedCard.CardEffect == EnumEffect.impenetrableFog)
             {
-
+                foreach (CombatCard c in activePlayer.Hand.Cards)
+                {
+                    if (c.Type == EnumType.range)
+                    {
+                        c.AttackPoints = 1;
+                    }
+                }
+                foreach (CombatCard c in opponent.Hand.Cards)
+                {
+                    if (c.Type == EnumType.range)
+                    {
+                        c.AttackPoints = 1;
+                    }
+                }
             }
             else if (playedCard.CardEffect == EnumEffect.torrentialRain)
             {
-
+                foreach (CombatCard c in activePlayer.Hand.Cards)
+                {
+                    if (c.Type == EnumType.longRange)
+                    {
+                        c.AttackPoints = 1;
+                    }
+                }
+                foreach (CombatCard c in opponent.Hand.Cards)
+                {
+                    if (c.Type == EnumType.longRange)
+                    {
+                        c.AttackPoints = 1;
+                    }
+                }
             }
             else if (playedCard.CardEffect == EnumEffect.clearWeather)
             {
-
+                board.WeatherCards = null;
             }
         }
 
         public void OnCardPlayed(object source, PlayerEventArgs e)
         {
-            if (e.Card.CardEffect == EnumEffect.bitingFrost)
-            {
-
-            }
-            else if (e.Card.CardEffect == EnumEffect.impenetrableFog)
-            {
-
-            }
-            else if (e.Card.CardEffect == EnumEffect.torrentialRain)
-            {
-
-            }
-            else if (e.Card.CardEffect == EnumEffect.clearWeather)
-            {
-
-            }
+            
         }
     }
 }
